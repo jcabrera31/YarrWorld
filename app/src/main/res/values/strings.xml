@@ -3,6 +3,7 @@
     <string name="welcome_text">Welcome to CS 273 - Mobile Application Development</string>
     <string name="button_text">SHIVER ME TIMBERS</string>
     <string name="toast_text">Yarr World!</string>
+    <string name="occ_pirate">Orange Coast College Pirate</string>
 
 
 </resources>
